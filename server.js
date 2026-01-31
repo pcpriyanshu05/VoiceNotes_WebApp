@@ -2,7 +2,7 @@ require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
-const whisperRoutes = require("./routes/whisperRoutes.js");
+// const whisperRoutes = require("./routes/whisperRoutes.js");
 
 
 
