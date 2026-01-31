@@ -16,7 +16,7 @@ app.use(express.json());
 
 // routes
 app.use("/api/notes", noteRoutes);
-app.use("/api/whisper", whisperRoutes);
+// app.use("/api/whisper", whisperRoutes);
 
 
 // test route
